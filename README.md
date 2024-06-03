@@ -1,2 +1,2 @@
-# Repositorio_1
-Solo de prueba
+#Prueba de repositorio
+Es solo de prueba de Jonatan Chodakowski
